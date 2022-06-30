@@ -1,0 +1,2383 @@
+# Copyright (C) 2014 aristath, fovoc, dovyp
+# This file is distributed under the GPL v3 License.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KnowledgePress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/shoestrap-3\n"
+"POT-Creation-Date: 2016-02-25 12:22+0100\n"
+"PO-Revision-Date: 2015-03-20 11:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: PressApps\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: 404.php:7
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr ""
+
+#: 404.php:11
+msgid "It looks like this was the result of either:"
+msgstr ""
+
+#: 404.php:13
+msgid "a mistyped address"
+msgstr ""
+
+#: 404.php:14
+msgid "an out-of-date link"
+msgstr ""
+
+#: base.php:4
+msgid "Skip to main content"
+msgstr ""
+
+#: base.php:11
+msgid ""
+" You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+
+#: bbpress/form-reply.php:17
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:20
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:24 bbpress/form-topic.php:43
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-reply.php:36 bbpress/form-topic.php:63
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-reply.php:44
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:56 bbpress/form-topic.php:111
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:58 bbpress/form-topic.php:113
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:69 bbpress/form-topic.php:124
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:72 bbpress/form-topic.php:128
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:84 bbpress/form-topic.php:139
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-reply.php:97
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:101 bbpress/form-topic.php:159
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:105
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:105
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:15
+#: framework/bootstrap/includes/class-Shoestrap_Menus.php:47
+#: framework/bootstrap/includes/class-Shoestrap_Menus.php:52
+#: templates/searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-topic.php:29
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:31
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:31
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:37
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:53
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:71
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:80
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:83
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:94
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:100
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:165
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:165
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-replies.php:26
+#: bbpress/loop-topics.php:22
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:22
+#: templates/author.php:13
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:23
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-replies.php:18
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:13
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:18
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:18
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:21
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:24
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-single-reply.php:17
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:47
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Topic"
+msgstr ""
+
+#: bbpress/loop-topics.php:21
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:29 framework/bootstrap/templates/top-bar.php:32
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:65
+msgid "Edit"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:48
+msgid "Categories: "
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:53
+msgid "Tags: "
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:56
+msgid "Pages:"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:77
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:78
+msgid ", "
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:122
+msgid "Sticky"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:128
+msgid "Gallery"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:130
+msgid "Aside"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:132
+msgid "Link"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:134
+msgid "Image"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:136
+msgid "Quote"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:138
+#: lib/class-TGM_Plugin_Activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:140
+msgid "Video"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:142
+msgid "Audio"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:144
+msgid "Chat"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:151
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:164
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:189
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:205
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Blog.php:197
+msgid "Comments"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Breadcrumbs.php:160
+#: framework/bootstrap/includes/class-Shoestrap_Breadcrumbs.php:175
+#: framework/bootstrap/includes/class-Shoestrap_Breadcrumbs.php:189
+msgid "Archives for"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Breadcrumbs.php:179
+msgid "You searched for"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Breadcrumbs.php:210
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Footer.php:27
+msgid "Footer 1"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Footer.php:36
+msgid "Footer 2"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Footer.php:45
+msgid "Footer 3"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Footer.php:54
+msgid "Footer 4"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Header.php:23
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:467
+msgid "Header"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Menus.php:220
+msgid "Side Navbar"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Menus.php:222
+msgid "This widget area will show up in your off canvas right side navigation."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Nav_Menu_Widget.php:12
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Nav_Menu_Widget.php:13
+msgid "Custom Menu"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Nav_Menu_Widget.php:59
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Nav_Menu_Widget.php:64
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:125
+#: lib/widgets.php:134 lib/widgets.php:285 lib/widgets.php:462
+msgid "Title:"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Nav_Menu_Widget.php:68
+msgid "Select Menu:"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:53
+msgid "General"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:57
+msgid "Logo"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:58
+msgid ""
+"Upload a logo image using the media uploader, or define the URL directly."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:64
+msgid "Favicon"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:65
+msgid ""
+"Upload a favicon image using the media uploader, or define the URL directly."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:71
+msgid "Apple Icon"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:72
+msgid ""
+"This will create icons for Apple iPhone ( 57px x 57px ), Apple iPhone Retina "
+"Version ( 114px x 114px ), Apple iPad ( 72px x 72px ) and Apple iPad Retina "
+"( 144px x 144px ). Please note upload image should be at least 144px x 144px."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:82
+msgid "Site Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:83
+msgid "Select the default site layout."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:89
+msgid "Fixed Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:91
+msgid "Fluid Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:96
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:164
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:182
+#: lib/redux/config.php:122
+msgid "Layout"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:97
+msgid ""
+"Select main content and sidebar arrangement. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:111
+msgid "Primary Sidebar Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:112
+msgid ""
+"Select the width of the Primary Sidebar. Please note that the values "
+"represent grid columns. The total width of the page is 12 columns, so "
+"selecting 4 here will make the primary sidebar to have a width of 1/3 "
+"( 4/12 ) of the total page width."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:125
+msgid "Secondary Sidebar Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:126
+msgid ""
+"Select the width of the Secondary Sidebar. Please note that the values "
+"represent grid columns. The total width of the page is 12 columns, so "
+"selecting 4 here will make the secondary sidebar to have a width of 1/3 "
+"( 4/12 ) of the total page width."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:139
+msgid "Body Top Margin"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:140
+msgid "Select the top margin of body element in pixels."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:150
+msgid "Custom Layouts per Post Type"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:151
+msgid "Set a default layout for each post type on your site."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:165
+msgid "Override your default stylings. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:190
+msgid "Menu"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:194
+msgid "Type of NavBar"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:195
+msgid "Choose the type of Navbar you want. Off completely hides the navbar."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:199
+msgid "Off"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:200
+msgid "Normal"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:201
+#: lib/redux/config.php:128
+msgid "Full-Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:206
+msgid "NavBar Positioning"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:207
+msgid ""
+"Using this option you can set the navbar to be fixed to top, fixed to bottom "
+"or normal. When you're using one of the 'fixed' options, the navbar will "
+"stay fixed on the top or bottom of the page."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:210
+msgid "Fixed"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:211
+msgid "Scroll"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:215
+msgid "Display social links in the NavBar."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:216
+msgid ""
+"Display social links in the NavBar. These can be setup in the 'Social' "
+"section on the left."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:222
+msgid "Display social links as a Dropdown list or an Inline list."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:223
+msgid "How to display social links."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:226
+msgid "Inline"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:227
+msgid "Dropdown"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:234
+msgid "Search form on the NavBar"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:235
+msgid "Display a search form in the NavBar."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:244
+msgid "Float Search to the right"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:251
+msgid "NavBar Search Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:262
+msgid "Placeholder"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:270
+msgid "Float NavBar menu to the right"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:271
+msgid "Floats the primary navigation to the right."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:285
+msgid "Enable User Navigation"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:291
+msgid "Login Link"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:298
+msgid "Register Link"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:304
+msgid "Custom Page"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:320
+msgid "Menus Styling"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:325
+msgid "NavBar Background Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:326
+msgid "Pick a background color for the NavBar."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:334
+msgid "Navbar Font"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:335
+msgid "The font used in navbars."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:347
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:389
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1140
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1163
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1186
+msgid "This is my preview text!"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:356
+msgid "Navbar Link Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:357
+msgid "The link colors used in navbars."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:367
+msgid "Dropdown Hover Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:373
+msgid "Dropdown Hover Background"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:377
+msgid "Branding Font"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:378
+msgid "The branding font for your site."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:400
+msgid "Side Navigation"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:404
+msgid "Background Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:405
+msgid "Select background color for sidebar navigation."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:416
+msgid "Link Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:417
+msgid "The link colors used in side navigation."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:425
+msgid "Always On"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:426
+msgid ""
+"Enable to display navigation toggle button on all devices. Disable to disply "
+"only on mobile devices."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:432
+msgid "Fixed Toggle Button"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:433
+msgid ""
+"Enable fixed position for navigation toggle button. Disable to scroll toggle "
+"button with navbar."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:439
+msgid "Display Admin Button"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:445
+msgid "Display Login Button"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:451
+msgid "Display Register Button"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:457
+msgid "Display social links"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:473
+#: lib/redux/config.php:172
+msgid "Subtitle"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:474
+#: lib/redux/config.php:173
+msgid "Enter header subtitle."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:478
+msgid "Header Background"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:479
+msgid "Specify the default background for site header."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:503
+#: lib/redux/config.php:55
+msgid "Content Align"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:504
+#: lib/redux/config.php:56
+msgid "Select header content alignment."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:512
+#: lib/redux/config.php:63
+msgid "Header Text Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:513
+msgid "Select the text color for your header."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:520
+#: lib/redux/config.php:79
+msgid "Header Top Padding"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:521
+msgid "Select the top padding of header in pixels."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:530
+#: lib/redux/config.php:90
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:531
+msgid "Select the bottom padding of header in pixels."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:545
+msgid "Articles"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:549
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:550
+msgid "Display Breadcrumbs."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:557
+msgid "Activate and order Post Meta elements"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:571
+msgid "Switch Date Meta in time_diff mode"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:572
+msgid ""
+"Replace Date Meta element by displaying the difference between post creation "
+"timestamp and current timestamp."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:580
+msgid "Reset All Article Views"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:581
+msgid "Reset views on all articles! Click reset button and Save Changes."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:590
+msgid "Reorder"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:591
+msgid ""
+"Enable drag and drop reordering under Posts>>All Posts and Posts>>Categories."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:601
+msgid "Archive Page"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:606
+msgid "Post Format Icons"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:607
+msgid "Display post format icon in titles on post archives."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:613
+msgid "Archives Display Mode"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:614
+msgid "Display the excerpt or the full post on post archives."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:619
+msgid "Excerpt"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:620
+msgid "Full Post"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:624
+msgid "Post excerpt length"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:625
+msgid "Choose how many words should be used for post excerpt."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:636
+msgid "\"More\" text"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:637
+msgid "Text to display in case of excerpt too long."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:639
+msgid "Continued"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:644
+msgid "Archive Meta"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:645
+msgid "Display meta elements on archive page"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:656
+msgid "Single Page"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:663
+msgid "Related Posts"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:664
+msgid "Display related posts on single page."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:672
+msgid "Post Author"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:673
+msgid "Display author info box on post single page."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:694
+msgid "Featured Images"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:699
+msgid "Featured Media on Archives"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:700
+msgid ""
+"Display featured media on post archives ( such as categories, tags, month "
+"view etc )."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:706
+msgid "Width of Featured Images on Archives"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:707
+msgid "Set dimensions of featured Images on Archives."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:711
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:754
+msgid "Full Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:712
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:755
+msgid "Custom Dimensions"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:716
+msgid "Archives Featured Image Custom Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:717
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:761
+msgid "Select the width of your featured images on single posts."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:731
+msgid "Archives Featured Image Custom Height"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:732
+msgid "Select the height of your featured images on post archives."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:743
+msgid "Featured Media on Single Posts"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:744
+msgid "Display featured media on posts."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:750
+msgid "Width of Featured Images on Single Posts"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:751
+msgid "Set dimensions of featured Images on Posts."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:760
+msgid "Single Posts Featured Image Custom Width"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:775
+msgid "Single Posts Featured Image Custom Height"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:776
+msgid "Select the height of your featured images on single posts."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:791
+msgid "Footer"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:795
+msgid "CTA Footer"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:796
+msgid "Display call to action section above footer."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:804
+msgid "CTA Content"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:814
+msgid "CTA Display On"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:815
+msgid "Select on which pages to display footer call to action."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:829
+msgid "CTA Background Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:830
+msgid "Select the background color for footer call to action."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:840
+msgid "CTA Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:841
+msgid "Select content color for footer call to action."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:850
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:851
+msgid "Select the background color for your footer sidebar."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:858
+msgid "Sidebar Titles Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:859
+msgid "Select the title text color for your footer widgets."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:867
+msgid "Footer Text/Link Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:868
+msgid "Select the text & link color for your footer."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:876
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:877
+msgid "Select the link hover color for your footer."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:885
+msgid "Footer Text"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:886
+msgid ""
+"The text that will be displayed in your footer. You can use [year] and "
+"[sitename] and they will be replaced appropriately. Default: &copy; [year] "
+"[sitename]"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:908
+msgid "Footer Top Margin"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:909
+msgid "Select the top margin of footer in pixels."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:917
+msgid "Show social icons in footer"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:918
+msgid "Show social icons in the footer."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:928
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:62
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:73
+#: templates/search-header.php:11 templates/search-header.php:25
+#: templates/searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:934
+msgid "Search Titles / Content"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:935
+msgid "Search in post titles only or post titles and content."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:947
+msgid "Post Types"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:948
+msgid "Select post types to display in live search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:952
+msgid "Disable Widget Live Search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:953
+msgid "Optionally disable live search in \"KP Live Search\" widget."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:961
+msgid "Search Analytics"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:962
+msgid "Enable to save user search data for analytics"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:968
+msgid "Pupular Searched Terms"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:969
+msgid "Display top searched terms under the widget search field."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:976
+msgid "Title"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:983
+msgid "Search Period"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:984
+msgid "Display top searches for a selected time period."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:997
+msgid "Number of Terms"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:998
+msgid "Select how many search terms to display."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1008
+msgid "Reset All Article Searches"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1009
+msgid ""
+"Reset searche terms on all articles! Click reset button and Save Changes."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1022
+msgid "Voting"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1028
+msgid "Article Voting"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1037
+msgid "Question"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1044
+msgid "Confirmation"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1053
+msgid "Reset All Article Votes"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1054
+msgid "Reset votes on all articles! Click reset button and Save Changes."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1083
+msgid "Colors"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1087
+msgid "Page Background Color"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1088
+msgid "Select a background color for your site."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1098
+msgid "Brand Colors: Primary"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1099
+msgid ""
+"Select your primary branding color. Also referred to as an accent color. "
+"This will affect various areas of your site, including the color of your "
+"primary buttons, link color, the background of some elements and many more."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1107
+msgid "Brand Colors: Primary Hover"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1108
+msgid ""
+"Select your primary branding hover color. Also referred to as an accent "
+"color. This will affect various areas of your site, including the color of "
+"your primary buttons, link color, the background of some elements and many "
+"more."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1120
+msgid "Typography"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1124
+msgid "Base Font"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1125
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1148
+msgid "The main font for your site."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1147
+msgid "H Tag Font"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1171
+msgid "Title Font"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1172
+msgid "Page title font."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1197
+msgid "Social"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1202
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1206
+msgid "Button Text"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1207
+msgid "Select the text for the social sharing button."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1213
+msgid "Button Location"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1214
+msgid ""
+"Select between NONE, TOP, BOTTOM & BOTH. For archives, \"BOTH\" fallbacks to "
+"\"BOTTOM\" only."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1226
+msgid "Button Styling"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1227
+msgid "Select between standard Bootstrap's button classes"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1240
+msgid "Show in Posts Archives"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1241
+msgid "Show the sharing button in posts archives."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1247
+msgid "Show in Single Post"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1248
+msgid "Show the sharing button in single post."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1254
+msgid "Show in Single Page"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1255
+msgid "Show the sharing button in single page."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1263
+msgid "Social Share Networks"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1264
+msgid "Select the Social Networks you want to enable for social shares"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1267
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1312
+#: templates/author.php:24
+msgid "Facebook"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1268
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1333
+#: templates/author.php:28
+msgid "Google+"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1269
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1347
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1270
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1354
+msgid "Pinterest"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1271
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1389
+msgid "Tumblr"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1272
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1396
+#: templates/author.php:20
+msgid "Twitter"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1273
+#: template-contact.php:95
+msgid "Email"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1281
+msgid "Social Links"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1287
+msgid ""
+"Social Links used in Menus && Footer. Enter full profile URL. To remove, "
+"just leave blank."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1291
+msgid "Bitbucket"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1298
+msgid "Digg"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1305
+msgid "Dribbble"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1319
+msgid "Flickr"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1326
+msgid "GitHub"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1340
+msgid "Instagram"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1361
+msgid "Reddit"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1368
+msgid "RSS"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1375
+msgid "Skype"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1382
+msgid "SoundCloud"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1403
+msgid "Vimeo"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1421
+msgid "Advanced"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1425
+msgid "Enable Retina mode"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1426
+msgid ""
+"By enabling your site's featured images will be retina ready. Requires "
+"images to be uploaded at 2x the typical size desired."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1432
+msgid "Google Analytics ID"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1433
+msgid ""
+"Paste your Google Analytics ID here to enable analytics tracking. Only "
+"Universal Analytics properties. Your user ID should be in the form of UA-"
+"XXXXX-Y."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1439
+msgid "Border-Radius"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1440
+msgid ""
+"You can adjust the corner-radius of all elements in your site here. This "
+"will affect buttons, navbars, widgets and many more."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1451
+msgid "Enable Nice Search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1452
+msgid "Redirects /?s=query to /search/query/, convert %20 to +."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1458
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1459
+msgid ""
+"You can write your custom CSS here. This code will appear in a script tag "
+"appended in the header section of the page."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1467
+msgid "Custom JS"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1468
+msgid ""
+"You can write your custom JavaScript/jQuery here. The code will be included "
+"in a script tag appended to the bottom of the page."
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1490
+msgid "KnowledgePress"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Options.php:1491
+msgid "KnowledgePress Options"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:12
+msgid "Use this widget to add a live search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:14
+msgid "KP Live Search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:41
+msgid "Live Search"
+msgstr ""
+
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:60
+#: framework/bootstrap/includes/class-Shoestrap_Widgets.php:71
+#: templates/search-header.php:9 templates/search-header.php:23
+msgid "Find help! Enter search term here."
+msgstr ""
+
+#: framework/bootstrap/templates/top-bar.php:25 templates/offcanvas.php:35
+msgid "Admin"
+msgstr ""
+
+#: framework/bootstrap/templates/top-bar.php:34 templates/offcanvas.php:38
+msgid "Logout"
+msgstr ""
+
+#: framework/bootstrap/templates/top-bar.php:41 templates/offcanvas.php:44
+msgid "Login"
+msgstr ""
+
+#: framework/bootstrap/templates/top-bar.php:44 templates/offcanvas.php:47
+msgid "Register"
+msgstr ""
+
+#: functions.php:25
+msgid ""
+"Install and activate Redux Framework under Appearance > Install Plugins!"
+msgstr ""
+
+#: index.php:6
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: lib/admin/init.php:11 lib/admin/init.php:405
+msgid "Analytics"
+msgstr ""
+
+#: lib/admin/init.php:196
+msgid "Views"
+msgstr ""
+
+#: lib/admin/init.php:199
+msgid "Votes"
+msgstr ""
+
+#: lib/admin/init.php:202
+msgid "Searches"
+msgstr ""
+
+#: lib/admin/init.php:209
+msgid "Most Liked"
+msgstr ""
+
+#: lib/admin/init.php:210
+msgid "Most Disliked"
+msgstr ""
+
+#: lib/admin/init.php:215
+msgid "Most Liked Articles"
+msgstr ""
+
+#: lib/admin/init.php:215
+msgid "Most Disliked Articles"
+msgstr ""
+
+#: lib/admin/init.php:236 lib/voting.php:246
+msgid "Likes"
+msgstr ""
+
+#: lib/admin/init.php:247 lib/voting.php:246
+msgid "Dislikes"
+msgstr ""
+
+#: lib/admin/init.php:265 lib/admin/init.php:310
+msgid "Low to High"
+msgstr ""
+
+#: lib/admin/init.php:266 lib/admin/init.php:311
+msgid "High to Low"
+msgstr ""
+
+#: lib/admin/init.php:271
+msgid "Article Views: Low to High"
+msgstr ""
+
+#: lib/admin/init.php:271
+msgid "Article Views: High to Low"
+msgstr ""
+
+#: lib/admin/init.php:293 lib/admin/init.php:347
+msgid "States"
+msgstr ""
+
+#: lib/admin/init.php:315
+msgid "Last 1 Day"
+msgstr ""
+
+#: lib/admin/init.php:316
+msgid "Last 7 Days"
+msgstr ""
+
+#: lib/admin/init.php:317
+msgid "Last 30 Days"
+msgstr ""
+
+#: lib/admin/init.php:318
+msgid "All Time"
+msgstr ""
+
+#: lib/admin/init.php:323
+#, php-format
+msgid "Searches: Low to High for %s"
+msgstr ""
+
+#: lib/admin/init.php:323
+#, php-format
+msgid "Searches: High to Low for %s"
+msgstr ""
+
+#: lib/admin/init.php:425
+msgid "Filter by period:"
+msgstr ""
+
+#: lib/admin/init.php:436
+msgid "Order:"
+msgstr ""
+
+#: lib/admin/init.php:452
+msgid "Sorry Sufficient Data is Not Available To generate the Graph"
+msgstr ""
+
+#: lib/bbpress.php:260
+msgid "Subscribe"
+msgstr ""
+
+#: lib/bbpress.php:261
+msgid "Unsubscribe"
+msgstr ""
+
+#: lib/bbpress.php:361
+msgid "Favorite"
+msgstr ""
+
+#: lib/bbpress.php:362
+msgid "Favorited"
+msgstr ""
+
+#: lib/bbpress.php:605
+msgid "No topics available"
+msgstr ""
+
+#: lib/bbpress.php:610
+msgid "No forums available"
+msgstr ""
+
+#: lib/bbpress.php:615
+msgid "None available"
+msgstr ""
+
+#: lib/class-Shoestrap_Image.php:69
+msgid "No image URL has been entered."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:399
+#: lib/class-TGM_Plugin_Activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:400
+#: lib/class-TGM_Plugin_Activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-TGM_Plugin_Activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-TGM_Plugin_Activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-TGM_Plugin_Activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-TGM_Plugin_Activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-TGM_Plugin_Activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/cleanup.php:83
+msgid "&laquo; Previous"
+msgstr ""
+
+#: lib/cleanup.php:84
+msgid "Next &raquo;"
+msgstr ""
+
+#: lib/cleanup.php:136
+msgid "&hellip;"
+msgstr ""
+
+#: lib/functions-core.php:382
+msgid "Video Embed Code"
+msgstr ""
+
+#: lib/functions-core.php:408
+msgid "Enter video embed code"
+msgstr ""
+
+#: lib/init.php:11
+msgid "Primary Navigation"
+msgstr ""
+
+#: lib/init.php:12
+msgid "Sidebar Navigation"
+msgstr ""
+
+#: lib/redux/config.php:22
+msgid "Video Background"
+msgstr ""
+
+#: lib/redux/config.php:23
+msgid "Upload a video for header background"
+msgstr ""
+
+#: lib/redux/config.php:31
+msgid "Image Background"
+msgstr ""
+
+#: lib/redux/config.php:32
+msgid "Specify the background for your header."
+msgstr ""
+
+#: lib/redux/config.php:64
+msgid "Select the text color for your header. Default: #333333."
+msgstr ""
+
+#: lib/redux/config.php:73
+msgid "Sidebar"
+msgstr ""
+
+#: lib/redux/config.php:80
+msgid ""
+"Select the top padding of header in pixels or set to 0 for default options "
+"panel setting."
+msgstr ""
+
+#: lib/redux/config.php:91
+msgid ""
+"Select the bottom padding of header in pixels or set to 0 for default "
+"options panel setting."
+msgstr ""
+
+#: lib/redux/config.php:107
+msgid "Header Options"
+msgstr ""
+
+#: lib/redux/config.php:127
+msgid "Default"
+msgstr ""
+
+#: lib/redux/config.php:129
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/redux/config.php:130
+msgid "Left Sidebar"
+msgstr ""
+
+#: lib/redux/config.php:131
+msgid "2 Left Sidebars"
+msgstr ""
+
+#: lib/redux/config.php:132
+msgid "2 Right Sidebars"
+msgstr ""
+
+#: lib/redux/config.php:133
+msgid "1 Left & 1 Right Sidebars"
+msgstr ""
+
+#: lib/redux/config.php:138 lib/widgets.php:12
+msgid "Primary Sidebar"
+msgstr ""
+
+#: lib/redux/config.php:145 lib/widgets.php:21
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: lib/redux/config.php:155
+msgid "Page Options"
+msgstr ""
+
+#: lib/redux/config.php:180
+msgid "Header Subtitle"
+msgstr ""
+
+#: lib/redux/config.php:193
+msgid "Table Of Contents"
+msgstr ""
+
+#: lib/redux/config.php:194
+msgid "Display automatic table of contents on the page."
+msgstr ""
+
+#: lib/redux/config.php:201
+msgid "Reset Article Votes"
+msgstr ""
+
+#: lib/redux/config.php:202
+msgid "Reset votes on this article!"
+msgstr ""
+
+#: lib/redux/config.php:215
+msgid "Post Options"
+msgstr ""
+
+#: lib/redux/config.php:234
+msgid "Categories"
+msgstr ""
+
+#: lib/redux/config.php:235
+msgid ""
+"Select categories to display on Knowledge Base page template (If none "
+"selected all categories will be displayed)."
+msgstr ""
+
+#: lib/redux/config.php:240
+msgid "Columns Per Page"
+msgstr ""
+
+#: lib/redux/config.php:241
+msgid "Select number of knowledge base columns displayed on page."
+msgstr ""
+
+#: lib/redux/config.php:252
+msgid "Articles Per Category"
+msgstr ""
+
+#: lib/redux/config.php:253
+msgid "Select number of knowledge base articles displayed per category."
+msgstr ""
+
+#: lib/redux/config.php:273
+msgid "3rd level categories"
+msgstr ""
+
+#: lib/redux/config.php:274
+msgid "Display 3rd level child categories."
+msgstr ""
+
+#: lib/redux/config.php:282
+msgid "Knowledge Base Options"
+msgstr ""
+
+#: lib/redux/config.php:296
+msgid "Contact Form Email Address"
+msgstr ""
+
+#: lib/redux/config.php:297
+msgid ""
+"Enter the email address where want to receive emails from the contact form "
+"or leave blank to use default admin email."
+msgstr ""
+
+#: lib/redux/config.php:304
+msgid "Contact Form Subject"
+msgstr ""
+
+#: lib/redux/config.php:305
+msgid ""
+"Enter the subject for the contact form or leave blank to use default subject."
+msgstr ""
+
+#: lib/redux/config.php:313
+msgid "Contact Form Options"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:930
+msgid "Options"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1086
+msgid "Settings Imported!"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1089
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1093
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1380
+msgid "error(s) were found!"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1096
+msgid "warning(s) were found!"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1100
+msgid "Expand"
+msgstr ""
+
+#: lib/redux/extensions/metaboxes/extension_metaboxes.php:1385
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: lib/redux/extensions/widget_areas/class.redux_widget_areas.php:86
+#: lib/redux/extensions/widget_areas/class.redux_widget_areas.php:95
+msgid "Create Widget Area"
+msgstr ""
+
+#: lib/redux/extensions/widget_areas/class.redux_widget_areas.php:91
+#: template-contact.php:92 templates/comments.php:57
+msgid "Name"
+msgstr ""
+
+#: lib/titles.php:11 lib/titles.php:49
+msgid "Latest Posts"
+msgstr ""
+
+#: lib/titles.php:20 lib/titles.php:58
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: lib/titles.php:22 lib/titles.php:60
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: lib/titles.php:24 lib/titles.php:62
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: lib/titles.php:26 lib/titles.php:64
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: lib/titles.php:31 lib/titles.php:69
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: lib/titles.php:33 lib/titles.php:71
+msgid "Not Found"
+msgstr ""
+
+#: lib/titles.php:170
+#, php-format
+msgid "Search Results %1$s %2$s"
+msgstr ""
+
+#: lib/titles.php:186
+msgid "Page not found"
+msgstr ""
+
+#: lib/twitter-api.php:68
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: lib/twitter-api.php:124
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: lib/voting.php:52
+msgid "Login to leave your feedback!"
+msgstr ""
+
+#: lib/voting.php:246 lib/voting.php:280
+msgid "Reset"
+msgstr ""
+
+#: lib/widgets.php:41
+msgid "Display a list of recent post entries from one or more categories."
+msgstr ""
+
+#: lib/widgets.php:43
+msgid "KP Recent Posts"
+msgstr ""
+
+#: lib/widgets.php:139 lib/widgets.php:290
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/widgets.php:144
+msgid "Select categories to include in the recent posts list:"
+msgstr ""
+
+#: lib/widgets.php:192
+msgid ""
+"Display a list of most commented post entries from one or more categories."
+msgstr ""
+
+#: lib/widgets.php:194
+msgid "KP Popular By Comments"
+msgstr ""
+
+#: lib/widgets.php:295
+msgid "Select categories to include in the popular posts list:"
+msgstr ""
+
+#: lib/widgets.php:348
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: lib/widgets.php:350
+msgid "KP Twitter"
+msgstr ""
+
+#: lib/widgets.php:467
+msgid "Twitter Username:"
+msgstr ""
+
+#: lib/widgets.php:472
+msgid "Number of tweets (maximum 20)"
+msgstr ""
+
+#: lib/widgets.php:477
+msgid "Follow Us on Twitter Text"
+msgstr ""
+
+#: lib/widgets.php:482
+msgid "Consumer Key"
+msgstr ""
+
+#: lib/widgets.php:486
+msgid "Consumer Secret"
+msgstr ""
+
+#: template-contact.php:79
+msgid "Thank you, your email was sent successfully."
+msgstr ""
+
+#: template-contact.php:85
+msgid "Please fill in all the fields correctly."
+msgstr ""
+
+#: template-contact.php:98
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:102
+msgid "Send Email"
+msgstr ""
+
+#: template-knowledgebase.php:169
+msgid "View all"
+msgstr ""
+
+#: template-knowledgebase.php:169
+msgid "articles"
+msgstr ""
+
+#: templates/author.php:16 templates/comments.php:65
+msgid "Website"
+msgstr ""
+
+#: templates/comment.php:10
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: templates/comment.php:13
+msgid "(Edit)"
+msgstr ""
+
+#: templates/comment.php:16
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: templates/comments.php:11
+#, php-format
+msgid "One Response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/comments.php:21
+msgid "&larr; Older comments"
+msgstr ""
+
+#: templates/comments.php:24
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: templates/comments.php:31 templates/comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/comments.php:44
+msgid "Leave a Reply"
+msgstr ""
+
+#: templates/comments.php:44
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/comments.php:47
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: templates/comments.php:52
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: templates/comments.php:53
+msgid "Log out of this account"
+msgstr ""
+
+#: templates/comments.php:53
+msgid "Log out &raquo;"
+msgstr ""
+
+#: templates/comments.php:57 templates/comments.php:61
+msgid " (required)"
+msgstr ""
+
+#: templates/comments.php:61
+msgid "Email (will not be published)"
+msgstr ""
+
+#: templates/comments.php:70
+msgid "Comment"
+msgstr ""
+
+#: templates/comments.php:73
+msgid "Submit Comment"
+msgstr ""
+
+#: templates/content-single.php:15
+msgid "Content"
+msgstr ""
+
+#: templates/related.php:20
+msgid "Related Articles"
+msgstr ""
